@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/kafka-beginner.iml" filepath="$PROJECT_DIR$/kafka-beginner.iml" />
       <module fileurl="file://$PROJECT_DIR$/kafka-elastic/kafka-elastic.iml" filepath="$PROJECT_DIR$/kafka-elastic/kafka-elastic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-simple/kafka-simple.iml" filepath="$PROJECT_DIR$/kafka-simple/kafka-simple.iml" />
       <module fileurl="file://$PROJECT_DIR$/kafka-twitter/kafka-twitter.iml" filepath="$PROJECT_DIR$/kafka-twitter/kafka-twitter.iml" />
     </modules>
   </component>
